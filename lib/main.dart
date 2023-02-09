@@ -109,7 +109,7 @@ class _HomeScreenState extends State<HomeScreen> {
                SizedBox(
                  height: 55,
                ),
-               Icon(FontAwesomeIcons.cloud, size:80, color: Colors.white,),
+               Icon(FontAwesomeIcons.cloud, size:75, color: Colors.white,),
                SizedBox(height: 15,),
                Center(
                    child:
